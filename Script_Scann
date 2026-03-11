@@ -41,8 +41,8 @@ requests.packages.urllib3.disable_warnings()
 console = Console()
 
 VERSION = "1.2.0"
-AUTHOR  = "@DarkZFull"
-CANAL   = "https://t.me/ltmdkz"
+AUTHOR  = "@Vicgogt_Connection"
+CANAL   = "https://t.me/Vicgogt"
 SUBTITULO = "Escaner de subdominios y bug hosts"
 TIMEOUT = 8
 THREADS = 50
